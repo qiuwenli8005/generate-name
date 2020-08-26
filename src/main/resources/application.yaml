@@ -1,0 +1,10 @@
+server:
+  port: 8080
+  servlet:
+    context-path: generate-name
+
+
+spring:
+  application:
+    name: name
+
